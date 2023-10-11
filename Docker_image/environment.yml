@@ -1,0 +1,21 @@
+name: apegen
+channels:
+  - conda-forge
+  - salilab
+  - schrodinger
+  - bioconda
+dependencies:
+  - python=3.7
+  - pdbfixer
+  - numpy
+  - openmm
+  - modeller 
+  - pymol
+  - biopandas
+  - biopython
+  - mgltools
+  - openmmforcefields
+  - python-constraint
+  - scikit-learn
+  - tabulate
+  - pdb-tools 
